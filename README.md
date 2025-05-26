@@ -20,3 +20,9 @@
 - 🌱 [www](https://github.com/drainpixie/www), my personal website
 - ❄️ [Rin](https://github.com/drainpixie/rin), my system configuratino
 - ❄️ [Hyo](https://github.com/drainpixie/hyo), my personal nixos packages
+
+---
+
+<footer>
+    Also check out my <a href="https://sr.ht/~pixie">SourceHut</a>, as it's my preferred platform.
+</footer>
