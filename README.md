@@ -6,6 +6,7 @@
 ## Packages
 
 - 🌳 [Reki](https://github.com/drainpixie/reki), a lithe undostack for JavaScript
+- 🧵 [Jaro](https://github.com/drainpixie/jaro), a small string distance algorithm
 - ✨ [Pika](https://github.com/drainpixie/pika), a cute & shiny logger for JavaScript à la [signale](https://github.com/klauscfhq/signale)
 - 🎛️ [Moji](https://github.com/drainpixie/moji), a cute & modular command bar for Svelte
 - ⚡ [Shin](https://github.com/drainpixie/shin), a snappy & modular markdown editor for Svelte
@@ -17,8 +18,8 @@
 
 ## Misc
 
-- 🌱 [www](https://github.com/drainpixie/www), my personal website
-- ❄️ [Rin](https://github.com/drainpixie/rin), my system configuratino
+- 🌱 [Www](https://github.com/drainpixie/www), my personal website
+- ❄️ [Rin](https://github.com/drainpixie/rin), my system configuration
 - ❄️ [Hyo](https://github.com/drainpixie/hyo), my personal nixos packages
 
 ---
